@@ -12,14 +12,7 @@ Aplikasi direktori UMKM yang dibangun dengan Next.js 14 dan Tailwind CSS dengan 
 
 | Dokumen | Deskripsi |
 |---------|-----------|
-| [INDEX.md](INDEX.md) | 📚 Index & navigasi semua dokumentasi |
-| [SETUP_INSTRUCTIONS.md](SETUP_INSTRUCTIONS.md) | 🚀 Setup dari awal (mulai di sini!) |
 | [QUICK_START.md](QUICK_START.md) | ⚡ Quick start guide |
-| [CONFIG_GUIDE.md](CONFIG_GUIDE.md) | 🔧 Panduan konfigurasi lengkap |
-| [STRUCTURE_DIAGRAM.md](STRUCTURE_DIAGRAM.md) | 📊 Visual diagram struktur |
-| [STRUCTURE.md](STRUCTURE.md) | 📁 Struktur aplikasi detail |
-| [DEPLOYMENT.md](DEPLOYMENT.md) | 🚢 Panduan deployment |
-| [MIGRATION.md](MIGRATION.md) | 📝 React → Next.js migration |
 
 ---
 
